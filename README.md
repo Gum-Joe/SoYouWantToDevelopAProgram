@@ -3,7 +3,7 @@ So you want to develop a program? Well, you've come to the right place. In this 
 
 # Contents
 * <a href="#user-content-getting-started">Getting started</a>
-  * Getting an idea
+  * <a href="#user-content-getting-an-idea">Getting an idea</a>
   * What language?
   * Open source?
 
@@ -28,7 +28,9 @@ Here are some examples (most are taken from the front page of the projects websi
 
 #### So what about me?
 Here's how we recommend going about getting your idea:
+
 1. Think about what really is time-consuming, annoys you or could be easier to do (i.e I spend 30 minutes build a docker image only to find that I forgot to not use the parent directory (`..`) in a `COPY` instruction.
+
 2. Get creative: think about how the problem could be solved, for example, linting the Dockerfile before the build.
 
 #### Tips (add any if you want)
