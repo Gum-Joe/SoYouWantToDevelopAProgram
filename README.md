@@ -39,3 +39,4 @@ Here's how we recommend going about getting your idea:
 * If going for a large ideas (e.g. I need a ui), consider getting together some people, that you can work well with, together.
 
 ## What language?
+<b>Coming soon</b>
